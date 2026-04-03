@@ -1,4 +1,4 @@
-CREATE DATABASE greenfield_academy
+CREATE DATABASE greenfield_academy;
 
 
 CREATE TABLE `year_groups` (
